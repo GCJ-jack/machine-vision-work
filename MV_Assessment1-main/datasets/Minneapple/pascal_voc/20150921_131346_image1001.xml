@@ -1,0 +1,59 @@
+<annotation>
+    <folder>images</folder>
+    <filename>20150921_131346_image1001.png</filename>
+    <path>/home/dexter/Uni/UWE/Machine Vision/Assessment 1/Datasets/Minneapple/detection/train/images/20150921_131346_image1001.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>720</width>
+        <height>1280</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>559</xmin>
+            <ymin>864</ymin>
+            <xmax>600</xmax>
+            <ymax>910</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>47</xmin>
+            <ymin>1125</ymin>
+            <xmax>70</xmax>
+            <ymax>1158</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>1088</ymin>
+            <xmax>26</xmax>
+            <ymax>1117</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>431</xmin>
+            <ymin>269</ymin>
+            <xmax>451</xmax>
+            <ymax>286</ymax>
+        </bndbox>
+    </object>
+</annotation>

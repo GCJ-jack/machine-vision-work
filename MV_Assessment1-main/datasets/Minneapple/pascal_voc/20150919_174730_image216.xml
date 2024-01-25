@@ -1,0 +1,81 @@
+<annotation>
+    <folder>images</folder>
+    <filename>20150919_174730_image216.png</filename>
+    <path>/home/dexter/Uni/UWE/Machine Vision/Assessment 1/Datasets/Minneapple/detection/train/images/20150919_174730_image216.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>720</width>
+        <height>1280</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>576</xmin>
+            <ymin>553</ymin>
+            <xmax>601</xmax>
+            <ymax>580</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>588</xmin>
+            <ymin>569</ymin>
+            <xmax>623</xmax>
+            <ymax>602</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>619</xmin>
+            <ymin>571</ymin>
+            <xmax>635</xmax>
+            <ymax>588</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>517</xmin>
+            <ymin>347</ymin>
+            <xmax>536</xmax>
+            <ymax>372</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>541</xmin>
+            <ymin>333</ymin>
+            <xmax>557</xmax>
+            <ymax>349</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>17</xmin>
+            <ymin>414</ymin>
+            <xmax>46</xmax>
+            <ymax>438</ymax>
+        </bndbox>
+    </object>
+</annotation>

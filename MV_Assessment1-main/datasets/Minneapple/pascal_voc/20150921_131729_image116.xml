@@ -1,0 +1,246 @@
+<annotation>
+    <folder>images</folder>
+    <filename>20150921_131729_image116.png</filename>
+    <path>/home/dexter/Uni/UWE/Machine Vision/Assessment 1/Datasets/Minneapple/detection/train/images/20150921_131729_image116.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>720</width>
+        <height>1280</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>631</xmin>
+            <ymin>10</ymin>
+            <xmax>689</xmax>
+            <ymax>75</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>602</xmin>
+            <ymin>2</ymin>
+            <xmax>641</xmax>
+            <ymax>36</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>537</xmin>
+            <ymin>21</ymin>
+            <xmax>577</xmax>
+            <ymax>58</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>414</xmin>
+            <ymin>259</ymin>
+            <xmax>459</xmax>
+            <ymax>299</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>423</xmin>
+            <ymin>294</ymin>
+            <xmax>477</xmax>
+            <ymax>353</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>414</xmin>
+            <ymin>415</ymin>
+            <xmax>464</xmax>
+            <ymax>466</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>440</xmin>
+            <ymin>520</ymin>
+            <xmax>482</xmax>
+            <ymax>562</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>520</xmin>
+            <ymin>563</ymin>
+            <xmax>566</xmax>
+            <ymax>603</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>449</xmin>
+            <ymin>567</ymin>
+            <xmax>507</xmax>
+            <ymax>627</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>391</xmin>
+            <ymin>541</ymin>
+            <xmax>442</xmax>
+            <ymax>590</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>406</xmin>
+            <ymin>597</ymin>
+            <xmax>449</xmax>
+            <ymax>656</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>399</xmin>
+            <ymin>658</ymin>
+            <xmax>428</xmax>
+            <ymax>688</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>582</xmin>
+            <ymin>690</ymin>
+            <xmax>623</xmax>
+            <ymax>721</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>582</xmin>
+            <ymin>813</ymin>
+            <xmax>608</xmax>
+            <ymax>849</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>470</xmin>
+            <ymin>823</ymin>
+            <xmax>508</xmax>
+            <ymax>865</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>465</xmin>
+            <ymin>692</ymin>
+            <xmax>514</xmax>
+            <ymax>731</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>400</xmin>
+            <ymin>708</ymin>
+            <xmax>452</xmax>
+            <ymax>738</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>463</xmin>
+            <ymin>664</ymin>
+            <xmax>509</xmax>
+            <ymax>695</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>380</xmin>
+            <ymin>606</ymin>
+            <xmax>414</xmax>
+            <ymax>648</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>408</xmin>
+            <ymin>310</ymin>
+            <xmax>429</xmax>
+            <ymax>326</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>709</xmin>
+            <ymin>693</ymin>
+            <xmax>719</xmax>
+            <ymax>727</ymax>
+        </bndbox>
+    </object>
+</annotation>
